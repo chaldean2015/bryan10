@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1,bein sport 1
+http://185.56.30.127:8082/TV4001
+
+#EXTINF:-1,bein sport 2
+http://185.56.30.127:8082/TV4002
+
+#EXTINF:-1,bein sport 3
+http://185.56.30.127:8082/TV4003
+
+#EXTINF:-1,bein sport 4
+http://185.56.30.127:8082/TV4004
+
+#EXTINF:-1,bein sport 5
+http://185.56.30.127:8082/TV4005
+
+#EXTINF:-1,bein sport 6
+http://185.56.30.127:8082/TV4006
+
+#EXTINF:-1,bein sport 7
+http://185.56.30.127:8082/TV4007
+
+#EXTINF:-1,bein sport 8
+http://185.56.30.127:8082/TV4008
+
+#EXTINF:-1,bein sport 9
+http://185.56.30.127:8082/TV4009
+
+#EXTINF:-1,bein sport 10
+http://185.56.30.127:8082/TV4010
+
+#EXTINF:-1,bein sport fr
+http://185.56.30.127:8082/TV4016
+
+#EXTINF:-1,bein sport fr
+http://185.56.30.127:8082/TV4017
+
 #EXTINF:-1,OMN HD 1
 http://185.27.237.105:8082/TV0023
  

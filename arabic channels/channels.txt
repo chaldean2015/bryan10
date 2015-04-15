@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-,albaghdadiya
-http://www.tvspice.com/videogallery/al-baghdadia/
 
 #EXTINF:-1,OMN HD 1
 http://185.27.237.105:8082/TV0023

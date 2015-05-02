@@ -1,5 +1,10 @@
 #EXTM3U
 
-#EXTINF:0,MBC 1
+#EXTINF:-1,MBC 1
 http://198.100.156.87/hls-shift/mbc_1.m3u8?st=RB1QeLjQtidSSvEbOG15_w&e=1430578248&v=1144391470
 
+#EXTINF:-1,MUSIC ALHANEEN
+rtmp://167.114.101.234:1935/live playpath=al_haneen_music swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_haneen_music&user=Bryan1983&token=76443222375 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,AGHANINA
+rtmp://167.114.101.234:1935/live playpath=aghanina swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=aghanina&user=Bryan1983&token=72608290040 live=1 pageUrl=http://www.teledunet.com/mobile/

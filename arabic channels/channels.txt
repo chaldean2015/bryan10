@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,SHARQIYA
+rtmp://ns8.indexforce.com/home/ playpath=mystream swfUrl=http://www.tvspice.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tvspice.com/embed/al-sharqiya-tv.php
+
 #EXTINF:-1,MBC 1
 rtmp://167.114.101.234:1935/live playpath=mbc_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=mbc_1&user=Bryan1983&token=76457185740 live=1 pageUrl=http://www.teledunet.com/mobile/
 

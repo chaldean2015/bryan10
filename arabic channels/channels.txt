@@ -1,13 +1,268 @@
 #EXTM3U
 
-#EXTINF:-1,SHARQIYA
-rtmp://ns8.indexforce.com/home/ playpath=mystream swfUrl=http://www.tvspice.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tvspice.com/embed/al-sharqiya-tv.php
-
 #EXTINF:-1,MBC 1
-rtmp://167.114.101.234:1935/live playpath=mbc_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=mbc_1&user=Bryan1983&token=76457185740 live=1 pageUrl=http://www.teledunet.com/mobile/
+rtmp://167.114.101.234:1935/live playpath=mbc_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_1&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
 
-#EXTINF:-1,MUSIC ALHANEEN
-rtmp://167.114.101.234:1935/live playpath=al_haneen_music swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_haneen_music&user=Bryan1983&token=76443222375 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,MBC 2
+rtmp://167.114.101.234:1935/live playpath=mbc_2 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_2&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MBC 3
+rtmp://167.114.101.234:1935/live playpath=mbc_3 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_3&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MBC 4
+rtmp://167.114.101.234:1935/live playpath=mbc_4 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_4&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MBC ACTION
+rtmp://167.114.101.234:1935/live playpath=mbc_action swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_action&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MBC MAX
+rtmp://167.114.101.234:1935/live playpath=mbc_max swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_max&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MBC MASR
+rtmp://167.114.101.234:1935/live playpath=mbc_masr swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_masr&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MBC BOLLYWOOD
+rtmp://167.114.101.234:1935/live playpath=mbc_bollywood swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mbc_bollywood&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,WANASAH
+rtmp://167.114.101.234:1935/live playpath=wanasah swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=wanasah&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ROTANA CLIP
+rtmp://167.114.101.234:1935/live playpath=rotana_clip swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=rotana_clip&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ROTANA MUSIC
+rtmp://167.114.101.234:1935/live playpath=rotana_music swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=rotana_music&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ROTANA AFLAM
+rtmp://167.114.101.234:1935/live playpath=rotana_aflam swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=rotana_aflam&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ROTANA CINEMA
+rtmp://167.114.101.234:1935/live playpath=rotana_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=rotana_cinema&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ROTANA CLASSIC
+rtmp://167.114.101.234:1935/live playpath=rotana_classic swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=rotana_classic&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ROTANA KHALIGIYA
+rtmp://167.114.101.234:1935/live playpath=rotana_khaligi swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=rotana_khaligi&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ROTANA MASRIYA
+rtmp://167.114.101.234:1935/live playpath=rotana_masriya swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=rotana_masriya&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MAZZIKA
+rtmp://167.114.101.234:1935/live playpath=mazzika swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=mazzika&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MELODY CLASSIC
+rtmp://167.114.101.234:1935/live playpath=melody_classic swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=melody_classic&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MUSIC PLUS
+rtmp://167.114.101.234:1935/live playpath=music_plus swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=music_plus&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
 
 #EXTINF:-1,AGHANINA
-rtmp://167.114.101.234:1935/live playpath=aghanina swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=aghanina&user=Bryan1983&token=72608290040 live=1 pageUrl=http://www.teledunet.com/mobile/
+rtmp://167.114.101.234:1935/live playpath=aghanina swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=aghanina&user=Bryan1983&token=73686767700 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALHANEEN MUSIC
+rtmp://167.114.101.234:1935/live playpath=al_haneen_music swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_haneen_music&user=Bryan1983&token=72513695735 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALSHARQIYA
+rtmp://167.114.101.234:1935/live playpath=al_sharqiya swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_sharqiya&user=Bryan1983&token=76032913515 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALSUMARIA
+rtmp://167.114.101.234:1935/live playpath=al_sumaria swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_sumaria&user=Bryan1983&token=77242240725 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,BAGHDAD
+rtmp://167.114.101.234:1935/live playpath=baghdad swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=baghdad&user=Bryan1983&token=75138429015 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,FOX MOVIES
+rtmp://167.114.101.234:1935/live playpath=fox_movies swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=fox_movies&user=Bryan1983&token=74785386585 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,TOP MOVIES
+rtmp://167.114.101.234:1935/live playpath=top_movies swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=top_movies&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,LBC
+rtmp://167.114.101.234:1935/live playpath=lbc swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=lbc&user=Bryan1983&token=76587196660 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,LBC EUROPE
+rtmp://167.114.101.234:1935/live playpath=lbc_europe swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=lbc_europe&user=Bryan1983&token=77089532520 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,STAR CINEMA
+rtmp://167.114.101.234:1935/live playpath=star_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=star_cinema&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,CBC
+rtmp://167.114.101.234:1935/live playpath=cbc swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=cbc&user=Bryan1983&token=76942438300 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,CBC DRAMA
+rtmp://167.114.101.234:1935/live playpath=cbc_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=cbc_drama&user=Bryan1983&token=74044655750 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,CAIRO CINEMA
+rtmp://167.114.101.234:1935/live playpath=cairo_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=cairo_cinema&user=Bryan1983&token=72682940135 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,CAIRO DRAMA
+rtmp://167.114.101.234:1935/live playpath=cairo_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=cairo_drama&user=Bryan1983&token=76491682475 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,CIMA
+rtmp://167.114.101.234:1935/live playpath=cima swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=cima&user=Bryan1983&token=76686654265 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,DREAM 1
+rtmp://167.114.101.234:1935/live playpath=dream_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=dream_1&user=Bryan1983&token=74928851855 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALNAHAR
+rtmp://167.114.101.234:1935/live playpath=al_nahar swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_nahar&user=Bryan1983&token=72215319345 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,NILE CINEMA
+rtmp://167.114.101.234:1935/live playpath=nile_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=nile_cinema&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,NILE COMEDY
+rtmp://167.114.101.234:1935/live playpath=nile_comedy swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=nile_comedy&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,NILE NEWS
+rtmp://167.114.101.234:1935/live playpath=nile_news swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=nile_news&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,NILE SPORT
+rtmp://167.114.101.234:1935/live playpath=nile_sport swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=nile_sport&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ON TV
+rtmp://167.114.101.234:1935/live playpath=on_tv swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=on_tv&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,PANORAMA COMEDY
+rtmp://167.114.101.234:1935/live playpath=panorama_comedy swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=panorama_comedy&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MOGA COMEDY
+rtmp://167.114.101.234:1935/live playpath=moga_comedy swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=moga_comedy&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALNAHAR
+rtmp://167.114.101.234:1935/live playpath=ennahar_tv swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=ennahar_tv&user=Bryan1983&token=75934125215 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ABU DHABI
+rtmp://167.114.101.234:1935/live playpath=abu_dhabi swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=abu_dhabi&user=Bryan1983&token=77016631965 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ABU DHABI DRAMA
+rtmp://167.114.101.234:1935/live playpath=abu_dhabi_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=abu_dhabi_drama&user=Bryan1983&token=74025676400 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,AD SPORT 1
+rtmp://167.114.101.234:1935/live playpath=abu_dhabi_sports_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=abu_dhabi_sports_1&user=Bryan1983&token=72561192600 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,DUBAI
+rtmp://167.114.101.234:1935/live playpath=dubai swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=dubai&user=Bryan1983&token=74882915705 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,DUBAI ONE
+rtmp://167.114.101.234:1935/live playpath=dubai_one swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=dubai_one&user=Bryan1983&token=73139133925 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,SAMA DUBAI
+rtmp://167.114.101.234:1935/live playpath=sama_dubai swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=sama_dubai&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,DUBAI SPORT 1
+rtmp://167.114.101.234:1935/live playpath=dubai_sport_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=dubai_sport_1&user=Bryan1983&token=77416199575 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,BAHRAIN
+rtmp://167.114.101.234:1935/live playpath=bahrain swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=bahrain&user=Bryan1983&token=74002377800 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,KUWAIT
+rtmp://167.114.101.234:1935/live playpath=kuwait swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=kuwait&user=Bryan1983&token=7612297030 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,JORDAN
+rtmp://167.114.101.234:1935/live playpath=jordan swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=jordan&user=Bryan1983&token=73334510730 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,NESSMA
+rtmp://167.114.101.234:1935/live playpath=nessma swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=nessma&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,SAMIRA TV
+rtmp://167.114.101.234:1935/live playpath=samira_tv swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=samira_tv&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,SYRIA
+rtmp://167.114.101.234:1935/live playpath=syria swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=syria&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,SYRIA DRAMA
+rtmp://167.114.101.234:1935/live playpath=syria_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=syria_drama&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,PALESTINE
+rtmp://167.114.101.234:1935/live playpath=palestine swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=palestine&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,FATAFET
+rtmp://167.114.101.234:1935/live playpath=fatafeat swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=fatafeat&user=Bryan1983&token=7538096345 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,FUNOON
+rtmp://167.114.101.234:1935/live playpath=funoon swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=funoon&user=Bryan1983&token=73880161290 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALGERIA
+rtmp://167.114.101.234:1935/live playpath=algeria swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=algeria&user=Bryan1983&token=76432254860 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALJAZEERA DOC
+rtmp://167.114.101.234:1935/live playpath=aljazeera_doc swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=aljazeera_doc&user=Bryan1983&token=77909674700 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALJAZEERA
+rtmp://167.114.101.234:1935/live playpath=aljazeera swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=aljazeera&user=Bryan1983&token=77564445855 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,RT
+rtmp://167.114.101.234:1935/live playpath=russia_alyaum swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=russia_alyaum&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,BBC ARABIC
+rtmp://167.114.101.234:1935/live playpath=bbc_arabic swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=bbc_arabic&user=Bryan1983&token=75296377260 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,BARAEM
+rtmp://167.114.101.234:1935/live playpath=baraem swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=baraem&user=Bryan1983&token=72541847625 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,SPACETOON
+rtmp://167.114.101.234:1935/live playpath=spacetoon swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=spacetoon&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,AJYAL
+rtmp://167.114.101.234:1935/live playpath=ajyal swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=ajyal&user=Bryan1983&token=75822889740 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,2M
+rtmp://167.114.101.234:1935/live playpath=2m swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=2m&user=Bryan1983&token=74358128780 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MAROCO 1
+rtmp://167.114.101.234:1935/live playpath=al_aoula_maroc swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_aoula_maroc&user=Bryan1983&token=77333362080 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALTUNISIA
+rtmp://167.114.101.234:1935/live playpath=al_tunisia swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_tunisia&user=Bryan1983&token=76569372685 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,TOUNESNA
+rtmp://167.114.101.234:1935/live playpath=tounesna swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=tounesna&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,TUNIS 1
+rtmp://167.114.101.234:1935/live playpath=tunisia_national_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=tunisia_national_1&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,TUNIS 2
+rtmp://167.114.101.234:1935/live playpath=tunisia_national_2 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=tunisia_national_2&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,HANIBAL
+rtmp://167.114.101.234:1935/live playpath=hanibal swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=hanibal&user=Bryan1983&token=76087649235 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,MEDI 1
+rtmp://167.114.101.234:1935/live playpath=medi_1_sat swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=medi_1_sat&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALMAGHRIBIA
+rtmp://167.114.101.234:1935/live playpath=al_maghribia swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_maghribia&user=Bryan1983&token=73993204220 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALMUSTAKILLA
+rtmp://167.114.101.234:1935/live playpath=al_moustakilla swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_moustakilla&user=Bryan1983&token=72447337885 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALTHANIYA
+rtmp://167.114.101.234:1935/live playpath=al_thaniya swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_thaniya&user=Bryan1983&token=75445763510 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALMAYADEN
+rtmp://167.114.101.234:1935/live playpath=al_mayaden swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=al_mayaden&user=Bryan1983&token=73646290575 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALGERIA 3
+rtmp://167.114.101.234:1935/live playpath=algeria_3 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=algeria_3&user=Bryan1983&token=74610423745 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,BLUE NILE
+rtmp://167.114.101.234:1935/live playpath=blue_nile swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=blue_nile&user=Bryan1983&token=7501580775 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALSHOROQ
+rtmp://167.114.101.234:1935/live playpath=echorouk_tv swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=echorouk_tv&user=Bryan1983&token=76934859885 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,LLBN
+rtmp://167.114.101.234:1935/live playpath=llbn swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33452919&channel=llbn&user=Bryan1983&token=74570779920 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ALGERIA
+rtmp://167.114.101.234:1935/live playpath=tamazigh_algeria swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=tamazigh_algeria&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,FIRST TV
+rtmp://167.114.101.234:1935/live playpath=tunisia_first_tv swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=tunisia_first_tv&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ZEE AFLAM
+rtmp://167.114.101.234:1935/live playpath=zee_aflam swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=zee_aflam&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,ZEE ALWAN
+rtmp://167.114.101.234:1935/live playpath=zee_alwan swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=zee_alwan&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/

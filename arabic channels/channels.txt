@@ -1,217 +1,493 @@
 #EXTM3U
 
-#EXTINF:-1,MBC 1
-rtmp://167.114.101.234:1935/live playpath=mbc_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_1&user=Bryan1983&token=73450839345 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC 1
+http://46.101.9.226/60/ch1244/index.m3u8
 
-#EXTINF:-1,MBC 2
-rtmp://167.114.101.234:1935/live playpath=mbc_2 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_2&user=Bryan1983&token=75492248585 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC 2
+http://46.101.9.226/60/ch1246/index.m3u8
 
-#EXTINF:-1,MBC 3
-rtmp://167.114.101.234:1935/live playpath=mbc_3 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_3&user=Bryan1983&token=74193759770 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC 3
+http://46.101.9.226/60/ch1247/index.m3u8
 
-#EXTINF:-1,MBC 4
-rtmp://167.114.101.234:1935/live playpath=mbc_4 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_4&user=Bryan1983&token=77359916725 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC 4
+http://46.101.9.226/60/ch1245/index.m3u8
 
-#EXTINF:-1,MBC ACTION
-rtmp://167.114.101.234:1935/live playpath=mbc_action swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_action&user=Bryan1983&token=77225965960 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC DRAMA
+http://46.101.9.226/60/ch1248/index.m3u8
 
-#EXTINF:-1,MBC MAX
-rtmp://167.114.101.234:1935/live playpath=mbc_max swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_max&user=Bryan1983&token=75693713030 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC MAX
+http://46.101.9.226/60/ch1254/index.m3u8
 
-#EXTINF:-1,MBC MASR
-rtmp://167.114.101.234:1935/live playpath=mbc_masr swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_masr&user=Bryan1983&token=76921747760 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC ACTION
+http://46.101.9.226/60/ch1252/index.m3u8
 
-#EXTINF:-1,MBC BOLLYWOOD
-rtmp://167.114.101.234:1935/live playpath=mbc_bollywood swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mbc_bollywood&user=Bryan1983&token=73373440205 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MBC BOLLYWOOD
+http://46.101.9.226/60/ch1253/index.m3u8
 
-#EXTINF:-1,WANASAH
-rtmp://167.114.101.234:1935/live playpath=wanasah swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=wanasah&user=Bryan1983&token=75545425670 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ROTANA CLASSIC
+http://46.101.9.226/60/ch1141/index.m3u8
 
-#EXTINF:-1,ROTANA CLIP
-rtmp://167.114.101.234:1935/live playpath=rotana_clip swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=rotana_clip&user=Bryan1983&token=74919175110 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ROTANA CINEMA
+http://46.101.9.226/60/ch1145/index.m3u8
 
-#EXTINF:-1,ROTANA MUSIC
-rtmp://167.114.101.234:1935/live playpath=rotana_music swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=rotana_music&user=Bryan1983&token=76929699730 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ROTANA MASREYA
+http://46.101.9.226/60/ch1142/index.m3u8
 
-#EXTINF:-1,ROTANA AFLAM
-rtmp://167.114.101.234:1935/live playpath=rotana_aflam swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=rotana_aflam&user=Bryan1983&token=72334585310 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ROTANA KHALEJIA
+http://46.101.9.226/60/ch1140/index.m3u8
 
-#EXTINF:-1,ROTANA CINEMA
-rtmp://167.114.101.234:1935/live playpath=rotana_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=rotana_cinema&user=Bryan1983&token=76248871075 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ROTANA MUSICA
+http://46.101.9.226/60/ch1137/index.m3u8
 
-#EXTINF:-1,ROTANA CLASSIC
-rtmp://167.114.101.234:1935/live playpath=rotana_classic swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=rotana_classic&user=Bryan1983&token=77342019820 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ROTANA CLIP
+http://46.101.9.226/60/ch1138/index.m3u8
 
-#EXTINF:-1,ROTANA KHALIGIYA
-rtmp://167.114.101.234:1935/live playpath=rotana_khaligi swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=rotana_khaligi&user=Bryan1983&token=76857189240 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NOJOUM FM TV
+http://46.101.9.226/60/ch1235/index.m3u8
 
-#EXTINF:-1,ROTANA MASRIYA
-rtmp://167.114.101.234:1935/live playpath=rotana_masriya swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=rotana_masriya&user=Bryan1983&token=73024858010 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MAZIKA
+http://46.101.9.226/60/ch1237/index.m3u8
 
-#EXTINF:-1,MAZZIKA
-rtmp://167.114.101.234:1935/live playpath=mazzika swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=mazzika&user=Bryan1983&token=73372716690 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL QITHARA
+http://46.101.9.226/60/ch1021/index.m3u8
 
-#EXTINF:-1,MELODY CLASSIC
-rtmp://167.114.101.234:1935/live playpath=melody_classic swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=melody_classic&user=Bryan1983&token=74031215050 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ALSHARIQA
+http://46.101.9.226/60/ch1181/index.m3u8
 
-#EXTINF:-1,MUSIC PLUS
-rtmp://167.114.101.234:1935/live playpath=music_plus swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=music_plus&user=Bryan1983&token=77870644410 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, SHARIQIYA NEWS
+http://46.101.9.226/60/ch1185/index.m3u8
 
-#EXTINF:-1,AGHANINA
-rtmp://167.114.101.234:1935/live playpath=aghanina swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=aghanina&user=Bryan1983&token=75411457875 live=1 pageUrl=http://www.teledunet.com/mobile/
-
-#EXTINF:-1,ALHANEEN MUSIC
-rtmp://167.114.101.234:1935/live playpath=al_haneen_music swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=al_haneen_music&user=Bryan1983&token=74010736800 live=1 pageUrl=http://www.teledunet.com/mobile/
-
-#EXTINF:-1,ALSHARQIYA
-rtmp://167.114.101.234:1935/live playpath=al_sharqiya swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=al_sharqiya&user=Bryan1983&token=72974520840 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,ALBAGHDADIAH
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 #EXTINF:-1,ALSUMARIA
-rtmp://167.114.101.234:1935/live playpath=al_sumaria swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=al_sumaria&user=Bryan1983&token=77179210615 live=1 pageUrl=http://www.teledunet.com/mobile/
+rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_360p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=1 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live
 
-#EXTINF:-1,BAGHDAD
-rtmp://167.114.101.234:1935/live playpath=baghdad swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=baghdad&user=Bryan1983&token=76472152445 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,IRAQIA
+http://212.7.205.5:1935/Iraqia/live/chunklist_w736669157.m3u8
 
-#EXTINF:-1,FOX MOVIES
-rtmp://167.114.101.234:1935/live playpath=fox_movies swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=fox_movies&user=Bryan1983&token=74613553755 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,ASIA SAT
+rtmp://178.63.55.18:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.asiasat.tv/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1
 
-#EXTINF:-1,TOP MOVIES
-rtmp://167.114.101.234:1935/live playpath=top_movies swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=top_movies&user=Bryan1983&token=7428109650 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL RAFIDEEN
+http://46.101.9.226/60/ch1086/index.m3u8
 
-#EXTINF:-1,LBC
-rtmp://167.114.101.234:1935/live playpath=lbc swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=lbc&user=Bryan1983&token=75978055335 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL FAYHAA
+http://46.101.9.226/60/ch1120/index.m3u8
 
-#EXTINF:-1,LBC EUROPE
-rtmp://167.114.101.234:1935/live playpath=lbc_europe swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=lbc_europe&user=Bryan1983&token=72174191310 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, ANB IRAQ
+http://46.101.9.226/60/ch1160/index.m3u8
 
-#EXTINF:-1,STAR CINEMA
-rtmp://167.114.101.234:1935/live playpath=star_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=star_cinema&user=Bryan1983&token=76856766285 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,ALFORAT
+rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://www1.alforattv.net/modules/live/js/jwplayer/player.swf live=1 pageUrl=http://www1.alforattv.net/modules/live/index.php?op=fph
 
-#EXTINF:-1,CBC
-rtmp://167.114.101.234:1935/live playpath=cbc swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=cbc&user=Bryan1983&token=76323422630 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,BELADI
+rtmp://50.7.78.50:443/live?1zztPfyVxFFbOc8gQHUB25xoDxv6SNRk playpath=live_beladitv swfUrl=http://vaughnlive.tv/4295593269/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/beladitv?viewers=true&watermark=left&autoplay=true
 
-#EXTINF:-1,CBC DRAMA
-rtmp://167.114.101.234:1935/live playpath=cbc_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=cbc_drama&user=Bryan1983&token=75753772315 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,DIJLAH
+rtmp://stream.joinvisions.net:1935/dij/ playpath=dij swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.dijlah.tv/index.php?page=pages&id=tv
 
-#EXTINF:-1,CAIRO CINEMA
-rtmp://167.114.101.234:1935/live playpath=cairo_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=cairo_cinema&user=Bryan1983&token=7546092385 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1,HOUNA BAGHDAD
+rtmp://livestreaming.itworkscdn.net/hounabaghdadlive/ playpath=hounabaghdad swfUrl=http://itworks-me.net/hounabaghdad/jwplayer.flash.swf live=1 pageUrl=http://itworks-me.net/hounabaghdad/
 
-#EXTINF:-1,CAIRO DRAMA
-rtmp://167.114.101.234:1935/live playpath=cairo_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=cairo_drama&user=Bryan1983&token=7337760820 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL ANBAR
+http://46.101.9.226/60/ch1341/index.m3u8
 
-#EXTINF:-1,CIMA
-rtmp://167.114.101.234:1935/live playpath=cima swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=cima&user=Bryan1983&token=7476993160 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, KARBALAA
+http://46.101.9.226/60/ch1345/index.m3u8
 
-#EXTINF:-1,DREAM 1
-rtmp://167.114.101.234:1935/live playpath=dream_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=dream_1&user=Bryan1983&token=72772364015 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL NAJAF AL ASHRAF
+http://46.101.9.226/60/ch1266/index.m3u8
 
-#EXTINF:-1,ALNAHAR
-rtmp://167.114.101.234:1935/live playpath=al_nahar swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=al_nahar&user=Bryan1983&token=7698222090 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL JADEED
+http://46.101.9.226/60/ch1285/index.m3u8
 
-#EXTINF:-1,NILE CINEMA
-rtmp://167.114.101.234:1935/live playpath=nile_cinema swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=nile_cinema&user=Bryan1983&token=76469415165 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MTV LEBANON
+http://46.101.9.226/60/ch1287/index.m3u8
 
-#EXTINF:-1,NILE COMEDY
-rtmp://167.114.101.234:1935/live playpath=nile_comedy swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=nile_comedy&user=Bryan1983&token=7762905020 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, LBC
+http://46.101.9.226/60/ch1020/index.m3u8
 
-#EXTINF:-1,NILE NEWS
-rtmp://167.114.101.234:1935/live playpath=nile_news swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=nile_news&user=Bryan1983&token=7447035830 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, FUTURE TV
+http://46.101.9.226/60/ch1014/index.m3u8
 
-#EXTINF:-1,NILE SPORT
-rtmp://167.114.101.234:1935/live playpath=nile_sport swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=nile_sport&user=Bryan1983&token=7760989665 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, LDC
+http://46.101.9.226/60/ch1205/index.m3u8 
 
-#EXTINF:-1,ON TV
-rtmp://167.114.101.234:1935/live playpath=on_tv swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=on_tv&user=Bryan1983&token=75864432085 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NBN
+http://46.101.9.226/60/ch1284/index.m3u8
 
-#EXTINF:-1,PANORAMA COMEDY
-rtmp://167.114.101.234:1935/live playpath=panorama_comedy swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=panorama_comedy&user=Bryan1983&token=75865292165 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, OTV
+http://46.101.9.226/60/ch1048/index.m3u8
 
-#EXTINF:-1,MOGA COMEDY
-rtmp://167.114.101.234:1935/live playpath=moga_comedy swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=moga_comedy&user=Bryan1983&token=74711262080 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, FOX
+http://46.101.9.226/60/ch1139/index.m3u8
 
-#EXTINF:-1,ABU DHABI
-rtmp://167.114.101.234:1935/live playpath=abu_dhabi swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=abu_dhabi&user=Bryan1983&token=76066306420 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, FOX MOVIES
+http://46.101.9.226/60/ch1144/index.m3u8
 
-#EXTINF:-1,ABU DHABI DRAMA
-rtmp://167.114.101.234:1935/live playpath=abu_dhabi_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=abu_dhabi_drama&user=Bryan1983&token=77732728645 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, TOP MOVIES
+http://46.101.9.226/60/ch1353/index.m3u8
 
-#EXTINF:-1,AD SPORT 1
-rtmp://167.114.101.234:1935/live playpath=abu_dhabi_sports_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=abu_dhabi_sports_1&user=Bryan1983&token=77953803070 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CBC
+http://46.101.9.226/60/ch1173/index.m3u8
 
-#EXTINF:-1,DUBAI
-rtmp://167.114.101.234:1935/live playpath=dubai swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=dubai&user=Bryan1983&token=75181087605 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CBC EXTRA
+http://46.101.9.226/60/ch1174/index.m3u8
 
-#EXTINF:-1,DUBAI ONE
-rtmp://167.114.101.234:1935/live playpath=dubai_one swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=dubai_one&user=Bryan1983&token=76217058905 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CBC DRAMA
+http://46.101.9.226/60/ch1172/index.m3u8
 
-#EXTINF:-1,SAMA DUBAI
-rtmp://167.114.101.234:1935/live playpath=sama_dubai swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=sama_dubai&user=Bryan1983&token=74269352690 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CBC SOFRA
+http://46.101.9.226/60/ch1175/index.m3u8
 
-#EXTINF:-1,DUBAI SPORT 1
-rtmp://167.114.101.234:1935/live playpath=dubai_sport_1 swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=dubai_sport_1&user=Bryan1983&token=76977084730 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL MEHWAR
+http://46.101.9.226/60/ch1215/index.m3u8
 
-#EXTINF:-1,BAHRAIN
-rtmp://167.114.101.234:1935/live playpath=bahrain swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=bahrain&user=Bryan1983&token=7708599925 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NILE FAMILY
+http://46.101.9.226/60/ch1220/index.m3u8
 
-#EXTINF:-1,KUWAIT
-rtmp://167.114.101.234:1935/live playpath=kuwait swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=kuwait&user=Bryan1983&token=72522658845 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NILE COMEDY
+http://46.101.9.226/60/ch1222/index.m3u8
 
-#EXTINF:-1,JORDAN
-rtmp://167.114.101.234:1935/live playpath=jordan swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=jordan&user=Bryan1983&token=77793903265 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NILE LIFE
+http://46.101.9.226/60/ch1223/index.m3u8
 
-#EXTINF:-1,NESSMA
-rtmp://167.114.101.234:1935/live playpath=nessma swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=nessma&user=Bryan1983&token=72567017055 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NILE DRAMA
+http://46.101.9.226/60/ch1224/index.m3u8
 
-#EXTINF:-1,SAMIRA TV
-rtmp://167.114.101.234:1935/live playpath=samira_tv swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=samira_tv&user=Bryan1983&token=76045733140 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NILE SPORT
+http://46.101.9.226/60/ch1225/index.m3u8
 
-#EXTINF:-1,SYRIA
-rtmp://167.114.101.234:1935/live playpath=syria swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=syria&user=Bryan1983&token=75318082385 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NILE THAQAFEYA
+http://46.101.9.226/60/ch1226/index.m3u8
 
-#EXTINF:-1,SYRIA DRAMA
-rtmp://167.114.101.234:1935/live playpath=syria_drama swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=syria_drama&user=Bryan1983&token=76009287965 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, NILE CINEMA
+http://46.101.9.226/60/ch1227/index.m3u8
 
-#EXTINF:-1,PALESTINE not working
-rtmp://167.114.101.234:1935/live playpath=palestine swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=palestine&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL MASRAWEYA
+http://46.101.9.226/60/ch1188/index.m3u8
 
-#EXTINF:-1,FATAFET
-rtmp://167.114.101.234:1935/live playpath=fatafeat swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=fatafeat&user=Bryan1983&token=7713966715 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL QAHIRA WAL NAS
+http://46.101.9.226/60/ch1196/index.m3u8
 
-#EXTINF:-1,FUNOON
-rtmp://167.114.101.234:1935/live playpath=funoon swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=funoon&user=Bryan1983&token=75685698010 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CAIRO ALYOUM
+http://46.101.9.226/60/ch1161/index.m3u8
 
-#EXTINF:-1,ALGERIA
-rtmp://167.114.101.234:1935/live playpath=algeria swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=algeria&user=Bryan1983&token=77586167880 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CAIRO ALNAHAR
+http://46.101.9.226/60/ch1162/index.m3u8
 
-#EXTINF:-1,ALJAZEERA
-rtmp://167.114.101.234:1935/live playpath=aljazeera swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=aljazeera&user=Bryan1983&token=77771463055 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CAIRO ALNAHAR
+http://46.101.9.226/60/ch1170/index.m3u8
 
-#EXTINF:-1,ALJAZEERA DOC
-rtmp://167.114.101.234:1935/live playpath=aljazeera_doc swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=aljazeera_doc&user=Bryan1983&token=73169164965 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, CAIRO DRAMA
+http://46.101.9.226/60/ch1171/index.m3u8
 
-#EXTINF:-1,RT
-rtmp://167.114.101.234:1935/live playpath=russia_alyaum swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=russia_alyaum&user=Bryan1983&token=77802769460 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL HAYAT 2
+http://46.101.9.226/60/ch1270/index.m3u8
 
-#EXTINF:-1,BBC ARABIC
-rtmp://167.114.101.234:1935/live playpath=bbc_arabic swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=bbc_arabic&user=Bryan1983&token=76026803320 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL HAYAT MOSALSALAT
+http://46.101.9.226/60/ch1342/index.m3u8
 
-#EXTINF:-1,BARAEM
-rtmp://167.114.101.234:1935/live playpath=baraem swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=baraem&user=Bryan1983&token=72773060620 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MISR
+http://46.101.9.226/60/ch1268/index.m3u8
 
-#EXTINF:-1,SPACETOON
-rtmp://167.114.101.234:1935/live playpath=spacetoon swfUrl=http://www.teledunet.com/mobile/player.swf?id1=33315825&channel=spacetoon&user=Bryan1983&token= live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, MISR 2
+http://46.101.9.226/60/ch1214/index.m3u8
 
-#EXTINF:-1,ALJAZEERA CHILDREN
-rtmp://167.114.101.234:1935/live playpath=aljazeera_children swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=aljazeera_children&user=Bryan1983&token=75623470910 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, AL BET BAYTAK
+http://46.101.9.226/60/ch1133/index.m3u8
 
-#EXTINF:-1,AJYAL
-rtmp://167.114.101.234:1935/live playpath=ajyal swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=ajyal&user=Bryan1983&token=74962534790 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, PANORAMA CINEMA
+http://46.101.9.226/60/ch1094/index.m3u8
 
-#EXTINF:-1,2M
-rtmp://167.114.101.234:1935/live playpath=2m swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=2m&user=Bryan1983&token=74809714460 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, PANORAMA FILM
+http://46.101.9.226/60/ch1121/index.m3u8
 
-#EXTINF:-1,ZEE AFLAM
-rtmp://167.114.101.234:1935/live playpath=zee_aflam swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=zee_aflam&user=Bryan1983&token=73950013800 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, PANORAMA
+http://46.101.9.226/60/ch1092/index.m3u8
 
-#EXTINF:-1,ZEE ALWAN
-rtmp://167.114.101.234:1935/live playpath=zee_alwan swfUrl=http://www.teledunet.com/mobile/player.swf?id1=64714951&channel=zee_alwan&user=Bryan1983&token=72683867295 live=1 pageUrl=http://www.teledunet.com/mobile/
+#EXTINF:-1, PANORAMA FOOD
+http://46.101.9.226/60/ch1318/index.m3u8
+
+#EXTINF:-1, PANORAMA DRAMA 2
+http://46.101.9.226/60/ch1319/index.m3u8
+
+#EXTINF:-1, CAIRO CINEMA
+http://46.101.9.226/60/ch1023/index.m3u8
+
+#EXTINF:-1, CAIRO ZAMAN
+http://46.101.9.226/60/ch1105/index.m3u8
+
+#EXTINF:-1, CAIRO DRAMA
+http://46.101.9.226/60/ch1022/index.m3u8
+
+#EXTINF:-1, MELODY CLASSIC
+http://46.101.9.226/60/ch1042/index.m3u8
+
+#EXTINF:-1, MELODY
+http://46.101.9.226/60/ch1088/index.m3u8
+
+#EXTINF:-1, MOGA CINEMA
+http://46.101.9.226/60/ch1096/index.m3u8
+
+#EXTINF:-1, MOGA COMEDY
+http://46.101.9.226/60/ch1331/index.m3u8
+
+#EXTINF:-1, TIME ACTION
+http://46.101.9.226/60/ch1108/index.m3u8
+
+#EXTINF:-1, TIME DRAMA
+http://46.101.9.226/60/ch1114/index.m3u8
+
+#EXTINF:-1, TIME CINEMA
+http://46.101.9.226/60/ch1134/index.m3u8
+
+#EXTINF:-1, TIME COMEDY
+http://46.101.9.226/60/ch1191/index.m3u8
+
+#EXTINF:-1, TIME FILM
+http://46.101.9.226/60/ch1038/index.m3u8
+
+#EXTINF:-1, TIME TAXI
+http://46.101.9.226/60/ch1041/index.m3u8
+
+#EXTINF:-1, BELODY AFLAM
+http://46.101.9.226/60/ch1183/index.m3u8
+
+#EXTINF:-1, AL QAHERA
+http://46.101.9.226/60/ch1124/index.m3u8
+
+#EXTINF:-1, AL ISKANDAREYA
+http://46.101.9.226/60/ch1125/index.m3u8
+
+#EXTINF:-1, CIMA
+http://46.101.9.226/60/ch1273/index.m3u8
+
+#EXTINF:-1, OSCAR COMEDY
+http://46.101.9.226/60/ch1102/index.m3u8
+
+#EXTINF:-1, HOLLYWOOD AFLAM
+http://46.101.9.226/60/ch1101/index.m3u8
+
+#EXTINF:-1, DOLLY CINEMA
+http://46.101.9.226/60/ch1100/index.m3u8
+
+#EXTINF:-1, LAYALY CINEMA
+http://46.101.9.226/60/ch1104/index.m3u8
+
+#EXTINF:-1, BAIRUTE CINEMA
+http://46.101.9.226/60/ch1132/index.m3u8
+
+#EXTINF:-1, CIMA ALI BABA
+http://46.101.9.226/60/ch1346/index.m3u8
+
+#EXTINF:-1, ABC CINEMA
+http://46.101.9.226/60/ch1016/index.m3u8
+
+#EXTINF:-1, STAR AFLAM
+http://46.101.9.226/60/ch1189/index.m3u8
+
+#EXTINF:-1, STAR CINEMA 2
+http://46.101.9.226/60/ch1190/index.m3u8
+
+#EXTINF:-1, B4U AFLAM
+http://46.101.9.226/60/ch1338/index.m3u8
+
+#EXTINF:-1, B4U PLUS
+http://46.101.9.226/60/ch1339/index.m3u8
+
+#EXTINF:-1, AL BALAD
+http://46.101.9.226/60/ch1166/index.m3u8
+
+#EXTINF:-1, AL BALAD HD
+http://46.101.9.226/60/ch1217/index.m3u8
+
+#EXTINF:-1, AL BALAD 2 HD
+http://46.101.9.226/60/ch1296/index.m3u8
+
+#EXTINF:-1, FUNOON TV
+http://46.101.9.226/60/ch1229/index.m3u8
+
+#EXTINF:-1, ONE TV
+http://46.101.9.226/60/ch1106/index.m3u8
+
+#EXTINF:-1, GEAR ONE
+http://46.101.9.226/60/ch1309/index.m3u8
+
+#EXTINF:-1, ABU DHABI DRAMA
+http://46.101.9.226/60/ch1311/index.m3u8
+
+#EXTINF:-1, ABU DHABI
+http://46.101.9.226/60/ch1250/index.m3u8
+
+#EXTINF:-1, ABU DHABI NAT EGO
+http://46.101.9.226/60/ch1314/index.m3u8
+
+#EXTINF:-1, CITY 7 DUBAI
+http://46.101.9.226/60/ch1264/index.m3u8
+
+#EXTINF:-1, DUBAI ONE
+http://46.101.9.226/60/ch1177/index.m3u8
+
+#EXTINF:-1, DUBAI SAMA
+http://46.101.9.226/60/ch1179/index.m3u8
+
+#EXTINF:-1, DUBAI AL OULA
+http://46.101.9.226/60/ch1180/index.m3u8
+
+#EXTINF:-1, QATAR
+http://46.101.9.226/60/ch1083/index.m3u8
+
+#EXTINF:-1, AL RAYAN
+http://46.101.9.226/60/ch1295/index.m3u8
+
+#EXTINF:-1, JORDAN TV
+http://46.101.9.226/60/ch1274/index.m3u8
+
+#EXTINF:-1, SYRIA
+http://46.101.9.226/60/ch1207/index.m3u8
+
+#EXTINF:-1, SYRIA DRAMA
+http://46.101.9.226/60/ch1061/index.m3u8
+
+#EXTINF:-1, IMAGINE MOVIES
+http://46.101.9.226/60/ch1323/index.m3u8
+
+#EXTINF:-1, MAJESTIC CINEMA
+http://46.101.9.226/60/ch1365/index.m3u8
+
+#EXTINF:-1, Z AFLAM
+http://46.101.9.226/60/ch1251/index.m3u8
+
+#EXTINF:-1, Z ALWAN
+http://46.101.9.226/60/ch1336/index.m3u8
+
+#EXTINF:-1, Z LIVING
+http://46.101.9.226/60/ch1337/index.m3u8
+
+#EXTINF:-1, IFILM
+http://46.101.9.226/60/ch1208/index.m3u8
+
+#EXTINF:-1, PRO SPORT 1
+http://46.101.9.226/60/ch1316/index.m3u8
+
+#EXTINF:-1, PRO SPORT 2
+http://46.101.9.226/60/ch1317/index.m3u8
+
+#EXTINF:-1, PRO SPORTS 3
+http://46.101.9.226/60/ch1071/index.m3u8
+
+#EXTINF:-1, PRO SPORTS 4
+http://46.101.9.226/60/ch1089/index.m3u8
+
+#EXTINF:-1, DUBAI SPORT
+http://46.101.9.226/60/ch1178/index.m3u8
+
+#EXTINF:-1, ABU DHABI SPORT 1
+http://46.101.9.226/60/ch1312/index.m3u8
+
+#EXTINF:-1, ABU DHABI SPORT 2
+http://46.101.9.226/60/ch1313/index.m3u8
+
+#EXTINF:-1, AL KAAS 6
+http://46.101.9.226/60/ch1017/index.m3u8
+
+#EXTINF:-1, AL ARABEYA
+http://46.101.9.226/60/ch1297/index.m3u8
+
+#EXTINF:-1, AL HADATH
+http://46.101.9.226/60/ch1298/index.m3u8
+
+#EXTINF:-1, AL JAZEERA
+http://46.101.9.226/60/ch1079/index.m3u8
+
+#EXTINF:-1, AL JAZEERA MOBASHAR
+http://46.101.9.226/60/ch1080/index.m3u8
+
+#EXTINF:-1, AL JAZEERA ENGLISH
+http://46.101.9.226/60/ch1081/index.m3u8
+
+#EXTINF:-1, AL JAZEERA DOCUMENTARY
+http://46.101.9.226/60/ch1081/index.m3u8
+
+#EXTINF:-1, ARABICA NEW
+http://46.101.9.226/60/ch1283/index.m3u8
+
+#EXTINF:-1, AL HURRA
+http://46.101.9.226/60/ch1211/index.m3u8
+
+#EXTINF:-1, AL ALAM
+http://46.101.9.226/60/ch1087/index.m3u8
+
+#EXTINF:-1, ORIENT NEWS
+http://46.101.9.226/60/ch1240/index.m3u8
+
+#EXTINF:-1, FRANCE 24 AR.
+http://46.101.9.226/60/ch1301/index.m3u8
+
+#EXTINF:-1, BBC NEWS
+http://46.101.9.226/60/ch1202/index.m3u8
+
+#EXTINF:-1, BBC ARABI
+http://46.101.9.226/60/ch1299/index.m3u8
+
+#EXTINF:-1, EURONEWS
+http://46.101.9.226/60/ch1271/index.m3u8
+
+#EXTINF:-1, CNN
+http://46.101.9.226/60/ch1261/index.m3u8
+
+#EXTINF:-1, FRANCE 24 EN.
+http://46.101.9.226/60/ch1262/index.m3u8
+
+#EXTINF:-1, SKY NEWS ARABIA
+http://46.101.9.226/60/ch1263/index.m3u8
+
+#EXTINF:-1, TRT ALARABEYA
+http://46.101.9.226/60/ch1059/index.m3u8
+
+#EXTINF:-1, CARTOON NETWEORK ARABIC
+http://46.101.9.226/60/ch1335/index.m3u8
+
+#EXTINF:-1, TOYOR AL JANNA
+http://46.101.9.226/60/ch1150/index.m3u8
+
+#EXTINF:-1, KARAMISH KIDS
+http://46.101.9.226/60/ch1147/index.m3u8
+
+#EXTINF:-1, TAHA
+http://46.101.9.226/60/ch1148/index.m3u8
+
+#EXTINF:-1, NOUR KIDS
+http://46.101.9.226/60/ch1358/index.m3u8
+
+#EXTINF:-1, CANARY KIDS
+http://46.101.9.226/60/ch1153/index.m3u8
+
+#EXTINF:-1, SPACETOON
+http://46.101.9.226/60/ch1182/index.m3u8
+
+#EXTINF:-1, NOON KIDS
+http://46.101.9.226/60/ch1156/index.m3u8
+
+#EXTINF:-1, SEMSEM KIDS
+http://46.101.9.226/60/ch1228/index.m3u8
+
+#EXTINF:-1, TIME CARTOON
+http://46.101.9.226/60/ch1113/index.m3u8
+
+#EXTINF:-1, SAT 7 KIDS
+http://46.101.9.226/60/ch1056/index.m3u8
+
+#EXTINF:-1, KOKY KIDS
+http://46.101.9.226/60/ch1350/index.m3u8
+
+#EXTINF:-1, JEEM KIDS
+http://46.101.9.226/60/ch1192/index.m3u8
+
+#EXTINF:-1, MODY KIDS
+http://46.101.9.226/60/ch1136/index.m3u8
+
+
+

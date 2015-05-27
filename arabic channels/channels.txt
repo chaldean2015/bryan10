@@ -60,6 +60,9 @@ rtmp://s2yusje2dcyg86.cloudfront.net/cfx/st playpath=mp4:29561289797544142179473
 #EXTINF:-1, AL QITHARA
 http://46.101.9.226/60/ch1021/index.m3u8
 
+#EXTINF:-1,ALSHARQIYA
+rtmp://ns8.indexforce.com/home playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=1 pageUrl=http://www.alsharqiyatv.com/
+
 #EXTINF:-1, SHARIQIYA NEWS
 http://46.101.9.226/60/ch1185/index.m3u8
 

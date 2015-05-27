@@ -1,47 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Bein Sports 1 HD 
-http://euroiptv2.mine.nu:80/live?channelId=189&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 2 HD 
-http://euroiptv2.mine.nu:80/live?channelId=190&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 3 HD 
-http://euroiptv2.mine.nu:80/live?channelId=191&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 4 HD 
-http://euroiptv2.mine.nu:80/live?channelId=192&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 5 HD 
-http://euroiptv2.mine.nu:80/live?channelId=193&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 6 HD 
-http://euroiptv2.mine.nu:80/live?channelId=194&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 7 HD 
-http://euroiptv2.mine.nu:80/live?channelId=195&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 8 HD 
-http://euroiptv2.mine.nu:80/live?channelId=196&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 9 HD 
-http://euroiptv2.mine.nu:80/live?channelId=197&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 10 HD 
-http://euroiptv2.mine.nu:80/live?channelId=198&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 11 HD 
-http://euroiptv2.mine.nu:80/live?channelId=199&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,Bein Sports 12 HD 
-http://euroiptv2.mine.nu:80/live?channelId=200&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
-#EXTINF:-1,BeIn Sports USA 
-http://euroiptv2.mine.nu:80/live?channelId=205&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54F
-
-#EXTINF:-1,BeIn Sports en Espagnol 
-http://euroiptv2.mine.nu:80/live?channelId=204&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
-
 #EXTINF:-1, MBC 1
 http://46.101.9.226/60/ch1244/index.m3u8
 
@@ -84,23 +42,41 @@ http://46.101.9.226/60/ch1137/index.m3u8
 #EXTINF:-1, ROTANA CLIP
 http://46.101.9.226/60/ch1138/index.m3u8
 
+#EXTINF:-1,ARABICA
+rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
+
+#EXTINF:-1,AGHANI
+rtmp://mobilestreaming.itworkscdn.com/aghanitv playpath=aghanitv swfUrl=http://www.aghaniaghani.com/stream/video/player.swf live=1 pageUrl=http://www.aghaniaghani.com/stream/video/play.html
+
 #EXTINF:-1, NOJOUM FM TV
 http://46.101.9.226/60/ch1235/index.m3u8
 
 #EXTINF:-1, MAZIKA
 http://46.101.9.226/60/ch1237/index.m3u8
 
+#EXTINF:-1,MCP
+rtmp://s2yusje2dcyg86.cloudfront.net/cfx/st playpath=mp4:29561289797544142179473037964687 swfUrl=http://www.ghanawi.com/swf/flowplayer-3.2.10.swf live=1 pageUrl=http://www.ghanawi.com/Channel#
+
 #EXTINF:-1, AL QITHARA
 http://46.101.9.226/60/ch1021/index.m3u8
-
-#EXTINF:-1, ALSHARIQA
-http://46.101.9.226/60/ch1181/index.m3u8
 
 #EXTINF:-1, SHARIQIYA NEWS
 http://46.101.9.226/60/ch1185/index.m3u8
 
 #EXTINF:-1,ALBAGHDADIAH
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:-1,ALBAGHDADIAH 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/01.m3u8?v=1144391470
+
+#EXTINF:-1,ISHTAR
+http://www.elahmad.com/tv/swf/player_glarab.swf?plugins=/tv/player/plugins/info1.swf&file=92&autostart=true&
+
+#EXTINF:-1,ELETEJAH
+rtmp://38.96.175.119:1935/aletejahtv/ playpath=aletejahtv1 swfUrl=http://www.elahmad.com/tv/swf/aletejahtv.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+
+#EXTINF:-1,ALRASHEED
+http://94.127.209.149:8080/alrashid/alrashid_1mbps/index.m3u8?v=1144391470
 
 #EXTINF:-1,ALSUMARIA
 rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_360p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=1 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live
@@ -152,6 +128,9 @@ http://46.101.9.226/60/ch1020/index.m3u8
 
 #EXTINF:-1, FUTURE TV
 http://46.101.9.226/60/ch1014/index.m3u8
+
+#EXTINF:-1,ALMAYADEEN
+rtmp://livestreaming.itworkscdn.net/mayadeenlive playpath=mayadsat swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.almayadeen.net/live
 
 #EXTINF:-1, LDC
 http://46.101.9.226/60/ch1205/index.m3u8 
@@ -384,6 +363,9 @@ http://46.101.9.226/60/ch1083/index.m3u8
 #EXTINF:-1, AL RAYAN
 http://46.101.9.226/60/ch1295/index.m3u8
 
+#EXTINF:-1, ALSHARIQA
+http://46.101.9.226/60/ch1181/index.m3u8
+
 #EXTINF:-1, JORDAN TV
 http://46.101.9.226/60/ch1274/index.m3u8
 
@@ -422,6 +404,15 @@ http://46.101.9.226/60/ch1071/index.m3u8
 
 #EXTINF:-1, PRO SPORTS 4
 http://46.101.9.226/60/ch1089/index.m3u8
+
+#EXTINF:-1,ALKASS 1
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_82s20.m3u8
+
+#EXTINF:-1,ALKASS 2
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_72s20.m3u8
+
+#EXTINF:-1,ALKASS 3
+http://alkass-i.akamaihd.net/hls/live/205534/3/live_72s20.m3u8
 
 #EXTINF:-1, DUBAI SPORT
 http://46.101.9.226/60/ch1178/index.m3u8

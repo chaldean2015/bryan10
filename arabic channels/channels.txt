@@ -16,7 +16,7 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1200000.m3u
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1,DUBAI
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1200000.m3u8
+rtmp://dmi.mangomolo.com:1935/dubaitv/?v=1144391470 playpath=dubaitv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=dubaitv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/dubai.htm
 
 #EXTINF:-1,DUBAI ZAMAN
 http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8

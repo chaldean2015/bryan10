@@ -1,124 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1,MBC 1
-http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=71667&session=4d0d89e79491ffbb4b978fec5c73dcc908f662a695f959f2c1b17818ced6dc4f&hlsid=HLS_2369310
+#EXTINF:-1,DUBAI RACING 2
+http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,MBC 2
-http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=168&session=5c755aef65c33fea394884706aafe54f4146dd7d72e4466bca5fb421f891910d&hlsid=HLS_2369416
+#EXTINF:-1,DUBAI RACING 1
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1,MBC 3
-http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=79938&session=f3c4bef92763624a75594a9330018896abfbaa349cc33658ba82c0a8a3d753cd&hlsid=HLS_2369518
+#EXTINF:-1,DUBAI SPORT 3
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,MBC 4
-http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=19305&session=f0d6a86157640a8771cd2d9b683d45cd6f6409c92a31a09918c0cfe33ca37f49&hlsid=HLS_2369621
+#EXTINF:-1,SAMA DUBAI
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,MBC MAX
-http://38.99.146.36:7777/MBCMax_HD/MBCMax_High.m3u8?user=83295&session=84a283b3532b4a61e6218d63438f8dc1c6fb0b2372de66a953fd099398670d4a&hlsid=HLS_2370185
+#EXTINF:-1,DUBAI ONE
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1,MBC ACTION
-http://38.99.146.36:7777/MBCAction_HD/MBCAction_High.m3u8?user=46595&session=5ac04061c280426ae171f1eccded8600a9c50612a0754dc30a722693e53198e9&hlsid=HLS_2369728
+#EXTINF:-1,DUBAI
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,MBC BOLLYWOOD
-http://38.99.146.36:7777/MBCBollywood_HD/MBCBollywood_High.m3u8?user=4279&session=199baba217bde5083a65c1c2eaecbd6f37b6947f5719f2db0bc226d036ba76f4&hlsid=HLS_2369844
+#EXTINF:-1,DUBAI ZAMAN
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,MBC DRAMA
-http://38.99.146.36:7777/MBCDrama_HD/MBCDrama_High.m3u8?user=39171&session=4ccb7a81ffc46b6fdaf8806715e81ce3a912ecc0bb5ae7c9833c7d47ee18ea36&hlsid=HLS_2370005
+#EXTINF:-1,DUBAI DRAMA
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,MBC MASR
-http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=63715&session=944c5024d9aa8de1d7c69797d179aa1a905fc2809425b423c6c659c6c3191235&hlsid=HLS_2370530
+#EXTINF:-1,ABU DHABI
+rtmp://162.212.176.107:1935/abu_dhabi/ playpath=globaltv-abu_dhabi.stream swfUrl=http://www.tvgoog.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://tvgoog.com/tv/28.html
 
-#EXTINF:-1,MBC MASR 2
-http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=1439&session=d6c5a51079f9e88e84872b6ebdd22cb743064030711eae61fb85252f326360b8&hlsid=HLS_2370674
+#EXTINF:-1,NATIONAL GEO AD
+rtmp://162.212.176.107:1935/national_geo_ad/ playpath=globaltv-national_geo_ad.stream swfUrl=http://www.tvgoog.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://tvgoog.com/tv/35.html
 
-#EXTINF:-1,MBC WANASAH
-http://38.99.146.36:7777/Wanasah_HD/Wanasah_HD.m3u8?user=24538&session=846337c0b6cfc0e820659b6e667355bd762c532c5008e8e654e38623a9fe8e4e&hlsid=HLS_2382626
+#EXTINF:-1,SHARJAH
+rtmp://livestreaming.itworkscdn.net/smc1live playpath=smc1tv swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf live=1 pageUrl=http://www.smc.ae/SMC-Streaming/smc-sharjahtv.html
 
-#EXTINF:-1,ALSHARQIYA
-http://38.99.146.36:7777/AlSharqiya_HD/AlSharqiya_HD.m3u8?user=28943&session=b9fb238f98af44ac2bc1ec275ab96ab0cbe2c4d5fd3969dab701cce2dc2d3dd8&hlsid=HLS_2372109
+#EXTINF:-1,SHARJAH SPORT
+rtmp://livestreaming.itworkscdn.net/smc4sportslive playpath=smc4tv swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf live=1 pageUrl=http://www.smc.ae/SMC-Streaming/smc-sharjahsports.html
 
-#EXTINF:-1,ALSHARQIYA NEWS
-http://38.99.146.36:7777/AlsharqiyaNews_HD/AlsharqiyaNews_HD.m3u8?user=36223&session=f36cf4b36380c8cf122bd9e58b4bf02e66d7d518b6ef8f61c649e54b55d0d158&hlsid=HLS_2372270
-
-#EXTINF:-1,ALBAGHDADIA
-http://38.99.146.36:7777/AlBaghdadia_HD/AlBaghdadia_HD.m3u8?user=42758&session=89a6190528e29b43a7085e112d3dd1a0da53a9e3804e7a609a99b803ef4c9f84&hlsid=HLS_2372478
-
-#EXTINF:-1,ALBAGHDADIA 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/01.m3u8
-
-#EXTINF:-1,AGHANINA
-http://38.99.146.36:7777/Aghanina_HD/Aghanina_HD.m3u8?user=63006&session=6b7a312591c59a41974a30164fe9c446c5a023705f942e97e3b21991d61ae537&hlsid=HLS_2374009
-
-#EXTINF:-1,MUSIC ALHANEEN
-http://38.99.146.36:7777/MusicAlhanen_HD/MusicAlhanen_High.m3u8?user=94974&session=5c234bab0e73cff63450bf8b8ceca1327cd8f7fb935d2fbaf1f4305e15eebe11&hlsid=HLS_2368990
-
-#EXTINF:-1,ALFAYHAA
-http://38.99.146.36:7777/AlFayhaa_HD/AlFayhaa_HD.m3u8?user=93556&session=87df492237cf822ab0d285398e3256b5dbdcac25dfb40bfe38b04a73fb062fca&hlsid=HLS_2375046
-
-#EXTINF:-1,ALFORAT
-http://38.99.146.36:7777/AlForat_HD/AlForat_HD.m3u8?user=92310&session=c8ba2da4b42a4edcad0dcb11ad64810e9a2622b38ad8cd4683c9c9c5999af325&hlsid=HLS_2375162
-
-#EXTINF:-1,IRAQIA SPORT
-http://212.7.205.5:1935/sport/live/chunklist_w1363442869.m3u8
-
-#EXTINF:-1,ALKOUT
-http://38.99.146.36:7777/AlKout_HD/AlKout_HD.m3u8?user=44873&session=084a375162ec11abb6211289490348d559835e41514eb4c69e006aa3c8790c15&hlsid=HLS_2376232
-
-#EXTINF:-1,ALRASHEED
-http://38.99.146.36:7777/AlRasheed_HD/AlRasheed_HD.m3u8?user=84207&session=689d0bd081a0e71b9d0ead499d2467b0e44a96b8d52ded689af1e08a24313d7e&hlsid=HLS_2376559
-
-#EXTINF:-1,ALRAFIDAIN
-http://38.99.146.36:7777/AlRafidain_HD/AlRafidain_HD.m3u8?user=16604&session=db9ffd4c22f2e97c3074ea158971a006adfbffaa5d30eaf831296c6342b6d6d4&hlsid=HLS_2376748
-
-#EXTINF:-1,ALSUMARIA
-http://38.99.146.36:7777/Alsumaria_HD/Alsumaria_HD.m3u8?user=67779&session=bdad0ae5d244c505acbc4205c575a5aa292a8750f2ccb72673822384431ce4e9&hlsid=HLS_2377009
-
-#EXTINF:-1,ALHURRA IRAQ
-http://38.99.146.36:7777/AlhurraIraq_HD/AlhurraIraq_HD.m3u8?user=12267&session=0fb0e78210364c4a21ea169ad7d095226943e077f7c4b941a6c4d9ba7d7bcafa&hlsid=HLS_2377211
-
-#EXTINF:-1,ALDIYAR
-http://38.99.146.36:7777/AldiyarSat_HD/AldiyarSat_HD/90019.ts?user=40973&session=ced8d9de4b9fc8235384ff71592cf72e78309a0928660cbcc4c3c90fb44de82d&hlsid=HLS_2377394
-
-#EXTINF:-1,ALIRAQIYA
-http://38.99.146.36:7777/AlIraqiya_HD/AlIraqiya_HD.m3u8?user=82582&session=546a5c4ffc1d767036786f8907047b64d42ae6364e5ce779223240eab13c621f&hlsid=HLS_2377903
-
-#EXTINF:-1,BAGHDAD
-http://38.99.146.36:7777/Baghdad_HD/Baghdad_HD.m3u8?user=9257&session=441e4bbbe112d9ce87be6550cbd2498a725f5c92f2a428b7253e487746f1bfc2&hlsid=HLS_2378650
-
-#EXTINF:-1,ANB IRAQ
-http://38.99.146.36:7777/ANB_HD/ANB_High.m3u8?user=62473&session=f705dc57a687966722a09d3d84a1cb9b617968c0017931bee58f4871622d3ac4&hlsid=HLS_2379248
-
-#EXTINF:-1,BELADI
-http://38.99.146.36:7777/Beladi_HD/Beladi_HD.m3u8?user=3268&session=28c3bc71750ebfd8051729e245c801ea305d07b38e0fbca825d95d7f1928bf1f&hlsid=HLS_2379749
-
-#EXTINF:-1,SHABAB TV
-http://38.99.146.36:7777/Chabab_HD/Chabab_High.m3u8?user=25444&session=972bb1d7a1f1e869d6da41e04ea6925dde4dfa7afee41b22e2836e2254c3ce76&hlsid=HLS_2380327
-
-#EXTINF:-1,DEJLAH
-http://38.99.146.36:7777/Dejlah_HD/Dejlah_High.m3u8?user=35091&session=3188cc59d1feec050936552c8ac823835b3f8e6aa5752330a7bf4789b173b47b&hlsid=HLS_2380822
-
-#EXTINF:-1,HOUNA BAGHDAD
-http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/chunklist_w80882042.m3u8
-
-#EXTINF:-1,ISHTAR
-http://38.99.146.36:7777/Ishtar_HD/Ishtar_HD.m3u8?user=56592&session=d367fdf2b4d14cf15ec5a9e427952cdc089e1d6eaa031bddd0830794af22b539&hlsid=HLS_2381526
-
-#EXTINF:-1,ROTANA AFLAM
-http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=48168&session=1df7444c385313b4ea98ec0defd83c88311169687a4cad49f687ee3816788c02&hlsid=HLS_2382913
-
-#EXTINF:-1,ROTANA CINEMA
-http://38.99.146.36:7777/RotanaCinema_HD/RotanaCinema_High.m3u8?user=40974&session=ea4187860a9770ac4a8f078df5ec6b599668aaba1d1a1ce4df4443fd8f735520&hlsid=HLS_2383032
-
-#EXTINF:-1,ROTANA CLASSIC
-http://38.99.146.36:7777/RotanaZaman_HD/RotanaZaman_High.m3u8?user=68378&session=c68232898271110746cdff05d00fe77a5b49191f558db94a40081e7f63e3a24b&hlsid=HLS_2383217
-
-#EXTINF:-1,ROTANA CLIP
-http://38.99.146.36:7777/RotanaClip_HD/RotanaClip_High.m3u8?user=52501&session=ef4a3a57d366aa82c0921a4a56142c0db46bfd5183460ee0dda9c493aa80eb76&hlsid=HLS_2383572
-
-#EXTINF:-1,ROTANA KHALIJIA
-http://216.66.42.87:7777/RotanaKhalijiah_HD/RotanaKhalijiah_High.m3u8?user=40716&session=4f67604a49d8b19a7fee454508cbedc922e65b3fe98b9720e1459217376fa7a6&hlsid=HLS_18070
-
-#EXTINF:-1,ROTANA MASRIYA
-http://38.99.146.36:7777/RotanaMasriya_HD/RotanaMasriya_High.m3u8?user=88497&session=bed871aa4e0ac4cdaa89c8611f02a071f6285c0d91987aae67de40ee14bb947b&hlsid=HLS_2383944
-
-#EXTINF:-1,ROTANA MUSIC
-http://38.99.146.36:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=91444&session=f958effdaae3f1cdfaa8fe49448ba9b7dcd1bfa23d8f1d994c909cff19a748aa&hlsid=HLS_2384045
+#EXTINF:-1,KABLAA
+rtmp://livestreaming.itworkscdn.net/kablatvlive playpath=kabtv swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf live=1 pageUrl=http://www.smc.ae/SMC-Streaming/smc-sharqiyatv.html

@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,ALARABIYA
+#EXTINF:-1,mbc
 http://arabic.dynns.com:1935/arabic/MBC1/chunklist_w115647329.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMTUgMjozNDozOSBBTSZoYXNoX3ZhbHVlPUExS21NZFVNa3hYd3drNHV0blprWUE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D

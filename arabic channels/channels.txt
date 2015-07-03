@@ -1,43 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1,ALARABIYA
-http://www.elahmad.com/tv/swf/player.swf?file=alarabiya&autostart=true&
-
-#EXTINF:-1,DUBAI RACING 2
-http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1,DUBAI RACING 1
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1,DUBAI SPORT 3
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1,SAMA DUBAI
-http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1,DUBAI ONE
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
-
-#EXTINF:-1,DUBAI
-rtmp://dmi.mangomolo.com:1935/dubaitv/?v=1144391470 playpath=dubaitv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=dubaitv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/dubai.htm
-
-#EXTINF:-1,DUBAI ZAMAN
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1,DUBAI DRAMA
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1,ABU DHABI
-rtmp://162.212.176.107:1935/abu_dhabi/ playpath=globaltv-abu_dhabi.stream swfUrl=http://www.tvgoog.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://tvgoog.com/tv/28.html
-
-#EXTINF:-1,NATIONAL GEO AD
-rtmp://162.212.176.107:1935/national_geo_ad/ playpath=globaltv-national_geo_ad.stream swfUrl=http://www.tvgoog.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://tvgoog.com/tv/35.html
-
-#EXTINF:-1,SHARJAH
-rtmp://livestreaming.itworkscdn.net/smc1live playpath=smc1tv swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf live=1 pageUrl=http://www.smc.ae/SMC-Streaming/smc-sharjahtv.html
-
-#EXTINF:-1,SHARJAH SPORT
-rtmp://livestreaming.itworkscdn.net/smc4sportslive playpath=smc4tv swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf live=1 pageUrl=http://www.smc.ae/SMC-Streaming/smc-sharjahsports.html
-
-#EXTINF:-1,KABLAA
-rtmp://livestreaming.itworkscdn.net/kablatvlive playpath=kabtv swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf live=1 pageUrl=http://www.smc.ae/SMC-Streaming/smc-sharqiyatv.html
+http://arabic.dynns.com:1935/arabic/MBC1/chunklist_w115647329.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMTUgMjozNDozOSBBTSZoYXNoX3ZhbHVlPUExS21NZFVNa3hYd3drNHV0blprWUE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D

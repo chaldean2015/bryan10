@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1,Bein sport us
+rtmp://beinspor playpath=beinsport_eng_4 swfUrl=http://sportsinfonet.info/player/Player.swf live=1 pageUrl=
+
+#EXTINF:-1,Bein sport 1
+http://cric.dynns.com:1935/iptv/bein1/chunklist_w784825499.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMTo1NjoxOCBBTSZoYXNoX3ZhbHVlPUgyNVV5ZGM0djBMbFNLRGhJL1JXeFE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 2
+http://cric.dynns.com:1935/iptv/bein2/chunklist_w200176618.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMTo1OTo1NyBBTSZoYXNoX3ZhbHVlPUtWOTJaS2M3a0JqVTBPaG5aZVZaMXc9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 3
+http://cric.dynns.com:1935/iptv/bein3/chunklist_w1350677721.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowMDo1NSBBTSZoYXNoX3ZhbHVlPU9RNzRLSDJJUm9DSjRhUHl5anI2dVE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 4
+http://cric.dynns.com:1935/iptv/bein4/chunklist_w1170984108.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowMTo1NSBBTSZoYXNoX3ZhbHVlPS9ZakRGVkNkd25LcFBHTlRkQitXZ0E9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 5
+http://cric.dynns.com:1935/iptv/bein5/chunklist_w1561666731.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowMjo1MSBBTSZoYXNoX3ZhbHVlPWNWdSszSGtZQmtOcmJocDRpZzdicFE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 6
+http://cric.dynns.com:1935/iptv/bein6/chunklist_w1924014768.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowMzo1MSBBTSZoYXNoX3ZhbHVlPUpSMWV2QUEvdCtXOG8zZmlFbEVEdkE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 7
+http://cric.dynns.com:1935/iptv/bein7/chunklist_w1442250792.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowNDoyMyBBTSZoYXNoX3ZhbHVlPU5JUFRwYTNYOVI2T3pFczZnRGZhVlE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 8
+http://cric.dynns.com:1935/iptv/bein8/chunklist_w1272644624.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowNDo1NiBBTSZoYXNoX3ZhbHVlPWhvTHIvZEZEb0JXOHIxY3ZaY2xXSXc9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 9
+http://cric.dynns.com:1935/iptv/bein9/chunklist_w984912014.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowNTozMSBBTSZoYXNoX3ZhbHVlPWRmVVBER1B2bklZRnFpTlkweTNDNlE9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Bein sport 10
+http://cric.dynns.com:1935/iptv/bein10/chunklist_w984937666.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTUgMjowNjowNiBBTSZoYXNoX3ZhbHVlPU4rOTkvOTQ0bC9NbDk5cDFIbEI2VXc9PSZ2YWxpZG1pbnV0ZXM9Mg%3D%3D
+
+#EXTINF:-1,Alkass hd 1
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_89s20.m3u8
+
+#EXTINF:-1,Alkass hd 2
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_80s20.m3u8
+
+#EXTINF:-1,Alkass hd 3
+http://alkass-i.akamaihd.net/hls/live/205534/3/live_80s20.m3u8
+
 #EXTINF:-1,MBC 1
 http://38.99.146.36:7777/MBC1_HD.m3u8
 

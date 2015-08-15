@@ -1,203 +1,31 @@
 #EXTM3U
 
-
-#EXTINF:-1,MBC 1
-http://38.99.146.36:7777/MBC1_HD.m3u8
+#EXTINF:-1,MBC
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=66156&session=3cbacb2bf3372e567f42e138f1d32ec2d3e1ef3bb95ab103eeac5079561dae1aa299017ce29bf1aa&hlsid=HLS_4229909
 
 #EXTINF:-1,MBC 2
-http://38.99.146.36:7777/MBC2_HD.m3u8
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=66156&session=3cbacb2bf3372e567f42e138f1d32ec2d3e1ef3bb95ab103eeac5079561dae1aa299017ce29bf1aa&hlsid=HLS_4229909
 
 #EXTINF:-1,MBC 3
-http://38.99.146.36:7777/MBC3_HD.m3u8
+http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=3002&session=8d5f28d258ef561a0a5f53a9c7dd8da788009e91ca2972641473b4dc8761da90a299017ce29bf1aa&hlsid=HLS_4231408
 
 #EXTINF:-1,MBC 4
-http://38.99.146.36:7777/MBC4_HD.m3u8
+http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=28747&session=19df11f0468c6d1aa1b44f49116f7fd6eb2a33322b1c28acd9571056867f3ec9a299017ce29bf1aa&hlsid=HLS_4232088
 
-#EXTINF:-1,MBC Max
-http://38.99.146.36:7777/MBCMax_HD.m3u8
+#EXTINF:-1,MBC MAX
+http://38.99.146.36:7777/MBCMax_HD/MBCMax_High.m3u8?user=33810&session=002b16f766a54aa3e2df4866112b37619ad15fa923913df3369bb050f3b49e34a299017ce29bf1aa&hlsid=HLS_4234926
 
-#EXTINF:-1,MBC Action
-http://38.99.146.36:7777/MBCAction_HD.m3u8
+#EXTINF:-1,MBC ACTION
+http://38.99.146.36:7777/MBCAction_HD/MBCAction_High.m3u8?user=72364&session=3af8f5979df8815d3899efc6d6b0ba3f3a59b949aeff1c215355927f37514504a299017ce29bf1aa&hlsid=HLS_4232774
 
-#EXTINF:-1,MBC Bollywood
-http://38.99.146.36:7777/MBCBollywood_HD.m3u8
+#EXTINF:-1,MBC DRAMA
+http://38.99.146.36:7777/MBCDrama_HD/MBCDrama_High.m3u8?user=28892&session=9eee1216e7d1a158498d8e6a7d90993261a556f332f3c142cc7a7e19ebd76e40a299017ce29bf1aa&hlsid=HLS_4233771
 
-#EXTINF:-1,MBC Drama
-http://38.99.146.36:7777/MBCDrama_HD.m3u8
+#EXTINF:-1,MBC MASER
+http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=25007&session=944db31724129c81314870394993a217e35513a382e9341bd77d51c41c3e6a94a299017ce29bf1aa&hlsid=HLS_4234131
 
-#EXTINF:-1,MBC Masr
-http://38.99.146.36:7777/MBCMaser_HD.m3u8
+#EXTINF:-1,MBC MASER 2
+http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=66270&session=4c7c7510dc7bfc71a1d9acc9f0880c3a9cedb77ffd50f9c0699e8aafc4188c14a299017ce29bf1aa&hlsid=HLS_4234466
 
-#EXTINF:-1,MBC Masr2
-http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
-
-#EXTINF:-1,Wanasah
-http://38.99.146.36:7777/Wanasah_HD.m3u8
-
-#EXTINF:-1,MTV
-http://38.99.146.36:7777/MTVLebanon_HD.m3u8
-
-#EXTINF:-1,Aljadeed
-http://38.99.146.36:7777/AlJadeed_HD.m3u8
-
-#EXTINF:-1,Future TV
-http://38.99.146.36:7777/Future_HD.m3u8
-
-#EXTINF:-1,Future News
-http://38.99.146.36:7777/FutureNews_HD.m3u8
-
-#EXTINF:-1,Future USA
-http://38.99.146.36:7777/FutureUSA_HD.m3u8
-
-#EXTINF:-1,LDC
-http://38.99.146.36:7777/LDC_HD.m3u8
-
-#EXTINF:-1,Lbc Europe
-http://38.99.146.36:7777/LBC_HD.m3u8
-
-#EXTINF:-1,OTV Lebanon
-http://38.99.146.36:7777/OTV_HD.m3u8
-
-#EXTINF:-1,Al Lubnania
-http://38.99.146.36:7777/AlLubnania_HD.m3u8
-
-#EXTINF:-1,Tele Liban
-http://38.99.146.36:7777/TeleLiban_HD.m3u8
-
-#EXTINF:-1,Noursat
-http://38.99.146.36:7777/Noursat_HD.m3u8
-
-#EXTINF:-1,Noursat Al Shabab
-http://38.99.146.36:7777/NourAlShabab_HD.m3u8
-
-#EXTINF:-1,Al Haneen Music
-http://38.99.146.36:7777/MusicAlhanen_HD.m3u8
-
-#EXTINF:-1,Aghanina
-http://38.99.146.36:7777/Aghanina_HD.m3u8
-
-#EXTINF:-1,Shabab tv
-http://38.99.146.36:7777/Chabab_HD.m3u8
-
-#EXTINF:-1,Alqithara
-http://38.99.146.36:7777/AlQithara_HD.m3u8
-
-#EXTINF:-1,Al Sharqiya
-http://38.99.146.36:7777/AlSharqiya_HD.m3u8
-
-#EXTINF:-1,Al Sharqiya News
-http://38.99.146.36:7777/AlsharqiyaNews_HD.m3u8
-
-#EXTINF:-1,Al Baghdadia
-http://38.99.146.36:7777/AlBaghdadia_HD.m3u8
-
-#EXTINF:-1,Al Baghdadia 2
-http://38.99.146.36:7777/AlBaghdadia2_HD.m3u8
-
-#EXTINF:-1,Ishtar
-http://38.99.146.36:7777/Ishtar_HD.m3u8
-
-#EXTINF:-1,Aliraqiya
-http://38.99.146.36:7777/AlIraqiya_HD.m3u8
-
-#EXTINF:-1,Arabic Tv:Aliraqia 2
-http://38.99.146.36:7777/AlIraqia2_HD.m3u8
-
-#EXTINF:-1,Al Iraqiya Documentary
-http://38.99.146.36:7777/AlIraqAlTarbawiyah_HD.m3u8
-
-#EXTINF:-1,Al Rasheed
-http://38.99.146.36:7777/AlRasheed_HD.m3u8
-
-#EXTINF:-1,Al Sumaria
-http://38.99.146.36:7777/Alsumaria_HD.m3u8
-
-#EXTINF:-1,Al Rafidain
-http://38.99.146.36:7777/AlRafidain_HD.m3u8
-
-#EXTINF:-1,Baghdad
-http://38.99.146.36:7777/Baghdad_HD.m3u8
-
-#EXTINF:-1,Al Babeleyia
-http://38.99.146.36:7777/AlBabeleyia_HD.m3u8
-
-#EXTINF:-1,Aldiyar
-http://38.99.146.36:7777/AldiyarSat_HD.m3u8
-
-#EXTINF:-1,Al Fayhaa
-http://38.99.146.36:7777/AlFayhaa_HD.m3u8
-
-#EXTINF:-1,Al Forat
-http://38.99.146.36:7777/AlForat_HD.m3u8
-
-#EXTINF:-1,Dejlah
-http://38.99.146.36:7777/Dejlah_HD.m3u8
-
-#EXTINF:-1,Al Kout
-http://38.99.146.36:7777/AlKout_HD.m3u8
-
-#EXTINF:-1,DM
-http://38.99.146.36:7777/DM_HD.m3u8
-
-#EXTINF:-1,Alhurra Iraq
-http://38.99.146.36:7777/AlhurraIraq_HD.m3u8
-
-#EXTINF:-1,Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD.m3u8
-
-#EXTINF:-1,Rotana Cinema
-http://38.99.146.36:7777/RotanaCinema_HD.m3u8
-
-#EXTINF:-1,Rotana Clip
-http://38.99.146.36:7777/RotanaClip_HD.m3u8
-
-#EXTINF:-1,Rotana Khaligi
-http://38.99.146.36:7777/RotanaKhalijiah_HD.m3u8
-
-#EXTINF:-1,Rotana Masriya
-http://38.99.146.36:7777/RotanaMasriya_HD.m3u8
-
-#EXTINF:-1,Rotana Music
-http://38.99.146.36:7777/RotanaMusic_HD.m3u8
-
-#EXTINF:-1,Rotana Classic
-http://38.99.146.36:7777/RotanaZaman_HD.m3u8
-
-#EXTINF:-1,Nile Cinema
-http://38.99.146.36:7777/NileCinema_HD.m3u8
-
-#EXTINF:-1,Nile Comedy
-http://38.99.146.36:7777/NileComedy_HD.m3u8
-
-#EXTINF:-1,Nile Culture
-http://38.99.146.36:7777/NileCulture_HD.m3u8
-
-#EXTINF:-1,Nile Drama
-http://38.99.146.36:7777/NileDrama_HD.m3u8
-
-#EXTINF:-1,Nile Drama 2
-http://38.99.146.36:7777/NileDrama2_HD.m3u8
-
-#EXTINF:-1,Nile Family
-http://38.99.146.36:7777/NileFamily_HD.m3u8
-
-#EXTINF:-1,Nile Tv
-http://38.99.146.36:7777/NileInt_HD.m3u8
-
-#EXTINF:-1,Nile Life
-http://38.99.146.36:7777/NileLife_HD.m3u8
-
-#EXTINF:-1,Nile News
-http://38.99.146.36:7777/NileNews_HD.m3u8
-
-#EXTINF:-1,Nile Sport
-http://38.99.146.36:7777/NileSport_HD.m3u8
-
-#EXTINF:-1,Alkass hd 1
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_89s20.m3u8
-
-#EXTINF:-1,Alkass hd 2
-http://alkass-i.akamaihd.net/hls/live/205534/2/live_80s20.m3u8
-
-#EXTINF:-1,Alkass hd 3
-http://alkass-i.akamaihd.net/hls/live/205534/3/live_80s20.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://38.99.146.36:7777/MBCBollywood_HD/MBCBollywood_High.m3u8?user=275&session=53b3bce145989c533dd39cee2b1ebd7411216ad46c1ceac720614654af7f92f5a299017ce29bf1aa&hlsid=HLS_4233374
